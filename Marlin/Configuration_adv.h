@@ -1759,6 +1759,7 @@
   #define PROBING_MARGIN_RIGHT 45
   #define PROBING_MARGIN_FRONT 15
   #define PROBING_MARGIN_BACK 15
+#endif
 
 #if EITHER(MESH_BED_LEVELING, AUTO_BED_LEVELING_UBL)
   // Override the mesh area if the automatic (max) area is too large
